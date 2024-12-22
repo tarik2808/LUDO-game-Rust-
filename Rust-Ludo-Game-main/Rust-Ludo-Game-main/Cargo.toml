@@ -1,0 +1,11 @@
+[package]
+name = "ludo-the-game-rs"
+author = ""
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+array-init = "2.0.0"
+crossterm = "0.22.1"
+debug_print = "1.0.0"
+rand = "0.8.4"
